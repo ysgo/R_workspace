@@ -1,15 +1,15 @@
-# ÇÑ±¹ÇàÁ¤Áöµµ ´Ü°è±¸ºÐµµ ÆÐÅ°Áö(KoNLP)
+# Korea Administrative Map Step-by-step
 if(!require(KoNLP)) install.packages('KoNLP')
 
-# ½Ãµµ
-str(korpop1$ÇàÁ¤±¸¿ªº°_À¾¸éµ¿)
-korpop1$ÇàÁ¤±¸¿ªº°_À¾¸éµ¿
+# Province
+str(korpop1$í–‰ì •êµ¬ì—­ë³„_ìë©´ë™)
+korpop1$í–‰ì •êµ¬ì—­ë³„_ìë©´ë™
 
-# ½Ã±º±¸
-str(korpop2$ÇàÁ¤±¸¿ªº°_À¾¸éµ¿)
-korpop2$ÇàÁ¤±¸¿ªº°_À¾¸éµ¿
+# Sigungu
+str(korpop2$í–‰ì •êµ¬ì—­ë³„_ìë©´ë™)
+korpop2$í–‰ì •êµ¬ì—­ë³„_ìë©´ë™
 
-# À¾,¸é,µ¿
-str(korpop3$ÇàÁ¤±¸¿ªº°_À¾¸éµ¿)
-korpop3$ÇàÁ¤±¸¿ªº°_À¾¸éµ¿
+# Dong, Town
+str(korpop3$í–‰ì •êµ¬ì—­ë³„_ìë©´ë™)
+korpop3$í–‰ì •êµ¬ì—­ë³„_ìë©´ë™
 
