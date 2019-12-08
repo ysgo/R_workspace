@@ -1,0 +1,11 @@
+# config.yml 파일에 설정 값 넣기 
+# defalut에 key와 value 형태로 값 설정하기 
+default:
+  trials: 5
+  dataset: "data-sampled.csv"
+  data: "sample data"
+
+# production은 R 환경 설정 값 넣기 
+production:
+  inherits: test
+  dataset: "data.csv"
